@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <h1>APP</h1>
       <p>This is cool</p>
+      <p>Some other change</p>
       <Comments />
     </div>
   );
